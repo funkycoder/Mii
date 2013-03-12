@@ -1,0 +1,3 @@
+
+var ApiGen = ApiGen || {};
+ApiGen.elements = [["f","_recaptcha_aes_encrypt()"],["f","_recaptcha_aes_pad()"],["f","_recaptcha_http_post()"],["f","_recaptcha_mailhide_email_parts()"],["f","_recaptcha_mailhide_urlbase64()"],["f","_recaptcha_qsencode()"],["c","Calculator"],["f","dbConnect()"],["c","Mii\\Mii_Email"],["c","Mii\\Mii_File"],["c","Mii\\Mii_Form"],["c","Mii\\Mii_String"],["c","Mii\\Mii_Thumbnail"],["c","Mii\\Mii_ThumbnailUpload"],["c","Mii\\Mii_Upload"],["c","Mii\\Mii_User"],["f","recaptcha_check_answer()"],["f","recaptcha_get_html()"],["f","recaptcha_get_signup_url()"],["f","recaptcha_mailhide_html()"],["f","recaptcha_mailhide_url()"],["c","ReCaptchaResponse"]];
